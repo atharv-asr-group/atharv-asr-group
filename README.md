@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Srivastava</h1>
-<h3 align="center">Full Stack Engineer and Devops</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/atharv-asr-group](https://github.com/atharv-asr-group)
 
